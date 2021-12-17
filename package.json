@@ -1,6 +1,6 @@
 {
   "name": "@rpc_1910/home-module",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React Native modular app - Home Module",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
